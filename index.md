@@ -91,19 +91,24 @@ Each background comes with various traits expressed as [tags]. These are simple 
 If players prefer to create a character without a background, reference the chart on pages 32-33. Players will roll their stats as normal, roll 1d6 HP, and reference the chart according to their highest stat and their HP. This will give them a starting package that may include weapons, powers, equipment, and other character features.
 
 # 1. Mercenary
+[intimidating] [old nemesis]
 
-### Tags
-[Intimidating] [Old Nemesis]
+## Mercenary Dossier
 
 ### Profile
-You and your crew fought for the highest bidder, not for any sort of ideology. Unless that ideology was lots of creds.
+You and your crew fought for the highest bidder, not for any sort of ideology. Unless that ideology was lots of creds. 
 
 ### Starting Gear
-Old crew emblem, combat knife (d6) or 2 flash grenades, utility belt.
+- Old crew emblem
+- Combat Knife (d6) or 2 flash grenades
+- Utility Belt
 
 ### Group Debt
 *If you are the oldest player at the table, the party owes 10k to...*
+
 **The Black Carapace Syndicate.** The insectoid crime lord, Narakata the Ninety-ninth, wants you to repay a gambling debt, preferably in the form illegal goods or rare artifacts, which will count as double their value in repaying this debt.
+
+## Hit Protection
 
 |    D6    | Signature Weapon                                             |
 | :------: | ------------------------------------------------------------ |
@@ -113,3 +118,7 @@ Old crew emblem, combat knife (d6) or 2 flash grenades, utility belt.
 | **4 HP** | **Jade-Iron Machete** (d8, bulky, armor piercing)            |
 | **5 HP** | **Trusty** (d6 blaster) **& Rusty** d6 blaster, cheap)       |
 | **6 HP** | **Rusty** (d6 blaster, cheap)                                |
+
+## Your Story So Far...
+
+Tables
