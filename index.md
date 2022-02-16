@@ -11,7 +11,7 @@
 
 The rules are also modular enough to be altered or removed. If you don’t want starships, or faction management, or psionic powers, certain elements of backgrounds, combat, etc. you should feel encouraged to alter the game to suit your needs. Monolith is also designed with longer play and campaigns in mind, although it would work fine for one-shots. That’s why there are systems of progression, and why new characters might seem a little more well-geared and tougher than new characters in similar games. I tend to play with longer campaigns in mind. If you don’t, it should be easy enough to increase the challenge on the GM side to find the right difficulty for your table.
 
-### Apendix N
+## Apendix N
 * Star Wars
 * Farscape
 * Mass Effect
@@ -20,7 +20,7 @@ The rules are also modular enough to be altered or removed. If you don’t want 
 * Futurama
 * Classic Traveller
 
-## Table of Contents
+# Table of Contents
 
 * [1. Principles](#1-principles)
 * [2. Character Creation](#2-Character-Creation)
