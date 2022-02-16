@@ -22,10 +22,10 @@ The rules are also modular enough to be altered or removed. If you don’t want 
 
 ## Table of Contents
 
-* [1. Principles](## Principles)
-* [2. Character Creation](## Character Creation)
-* [3. Backgrounds](## Backgrounds)
-* [4. Equipment](## Equipment)
+* [1. Principles](#1-principles)
+* [2. Character Creation](#2-Character-Creation)
+* [3. Backgrounds](#3-Backgrounds)
+* [4. Equipment](#4-Equipment)
 
 ## 1. Principles
 
