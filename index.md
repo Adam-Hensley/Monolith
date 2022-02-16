@@ -1,9 +1,10 @@
-# Monolith System Reference Document
+# Monolith
 
 **Monolith** is a science fiction adventure game for one Game Master (GM) and at least one other player. Players act as daring adventurers exploring a vast & mysterious galaxy filled with weird aliens, lost civilizations, and ruthless factions.
 
+## System Reference Document
 * **Monolith** is licensed under CC-BY-SA 4.0.
-* This game is a sci-fi / science fantasy hack of Yochai Gal’s *Cairn*, which is a hack of *Into the Odd* (by Chris McDowall) and *Knave* (by Ben Milton). See more credits at the back.
+* **Monolith** is a sci-fi / science fantasy hack of Yochai Gal’s *Cairn*, which is a hack of *Into the Odd* (by Chris McDowall) and *Knave* (by Ben Milton). See more credits at the back.
 
 ## Overview
 **Monolith** is about exploring a vast, populous, and diverse galaxy. It’s a game of discovery, wonder, and mystery. Monolith is setting neutral. The rules are written in such a way that might suggest or imply things like specific cultures, alien lifeforms, psionics, weird powers, intelligent machines, advanced technology existing alongside more analogue or “low tech” technology, and faster-than-light travel. As a galaxy that is both an open society full of trade and conflict, while also leaving dark corners and uncharted sections to explore. Some of the items, backgrounds, and powers imply certain elements of a setting, but the flavor of everything can be changed to suit your needs. 
