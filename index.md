@@ -27,7 +27,7 @@ The rules are also modular enough to be altered or removed. If you don’t want 
 * [3. Backgrounds](#3.-Backgrounds)
 * [4. Equipment](#4.-Equipment)
 
-## 1. Principles
+# 1. Principles
 
 ### Compatibility
 This game is designed to be compatible with other pre-written adventures (especially sci-fi) with minimal and flexible conversion.
@@ -52,7 +52,7 @@ One shots are perfectly acceptable ways to play, but this game was designed with
 ### Player Choice
 Players should always understand the reasons behind the choices they’ve made, and information about potential risks should be provided freely and frequently. Always give the players a lot of information.
 
-## 2. Character Creation
+# 2. Character Creation
 ### Ability Scores
 Roll **3d6** for each ability score in order. The player may swap any two of the results.
 * **Strength (STR)** - Power, toughness, grit, & stamina.
@@ -75,7 +75,7 @@ All PCs begin with:
 * Glo-torch (one slot)
 * 3d6 Credits (C)
 
-## Backgrounds
+# Backgrounds
 
 ### Background Details
 Some elements from your past might still be relevant to who your character is or might become, but their past doesn’t define them. Backgrounds will also imply some specialized knowledge, along with details based on the tables rolled.
