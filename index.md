@@ -23,9 +23,9 @@ The rules are also modular enough to be altered or removed. If you don’t want 
 # Table of Contents
 
 * [1. Principles](#1-principles)
-* [2. Character Creation](#2-Character-Creation)
-* [3. Backgrounds](#3-Backgrounds)
-* [4. Equipment](#4-Equipment)
+* [2. Character Creation](#2-character-creation)
+* [3. Backgrounds](#3-backgrounds)
+* [4. Equipment](#4-equipment)
 
 # 1. Principles
 
@@ -53,16 +53,17 @@ One shots are perfectly acceptable ways to play, but this game was designed with
 Players should always understand the reasons behind the choices they’ve made, and information about potential risks should be provided freely and frequently. Always give the players a lot of information.
 
 # 2. Character Creation
-### Ability Scores
+
+## Ability Scores
 Roll **3d6** for each ability score in order. The player may swap any two of the results.
 * **Strength (STR)** - Power, toughness, grit, & stamina.
 * **Dexterity (DEX)** - Quickness, precision, agility, & technological aptitude.
 * **Willpower (WIL)** - Confidence, force of personality, mental fortitude, & affinity for the weird.
 
-### Background
+## Background
 Roll **1d12** and consult the corresponding background to see what your life has been like up to this point. Next, roll on all the tables listed under that background. All backgrounds will have a table corresponding to HP, along with two other tables to flesh out details.
 
-### Hit Protection (HP)
+## Hit Protection (HP)
 Roll **1d6** to determine your character’s starting Hit Protection (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character’s health or fortitude; nor do they lose it for very long (see Healing). They grow more grizzled over their experiences. If an attack takes a PC’s HP exactly to 0, the player must roll on the scars table.
 
 ## Finishing Touches
@@ -75,16 +76,40 @@ All PCs begin with:
 * Glo-torch (one slot)
 * 3d6 Credits (C)
 
-# Backgrounds
+# 3. Backgrounds
 
-### Background Details
+## Background Details
 Some elements from your past might still be relevant to who your character is or might become, but their past doesn’t define them. Backgrounds will also imply some specialized knowledge, along with details based on the tables rolled.
 
-### Shared Debt
+## Shared Debt
 The group will start with a shared debt. This will help facilitate urgency for the players by prompting them to search out jobs and make money, as well as provide the GM with world building and story prompts. 
 
-### Tags
+## Tags
 Each background comes with various traits expressed as [tags]. These are simple descriptors that are truths about a character. They don’t directly offer mechanical bonuses, but can be used as a tool when negotiating between the player and the GM or deciding an outcome. Character qualities don’t have to be tags to be used this way, but they’re labeled this way to help organize a new character’s details before play. As characters interact with the setting, more truths and descriptions about them will be added, either as tags or just with common sense. Tags can optionally be ignored. 
 
-### Alternate Background Options
+## Alternate Background Options
 If players prefer to create a character without a background, reference the chart on pages 32-33. Players will roll their stats as normal, roll 1d6 HP, and reference the chart according to their highest stat and their HP. This will give them a starting package that may include weapons, powers, equipment, and other character features.
+
+# 1. Mercenary
+
+### Tags
+[Intimidating] [Old Nemesis]
+
+### Profile
+You and your crew fought for the highest bidder, not for any sort of ideology. Unless that ideology was lots of creds.
+
+### Starting Gear
+Old crew emblem, combat knife (d6) or 2 flash grenades, utility belt.
+
+### Group Debt
+*If you are the oldest player at the table, the party owes 10k to...*
+**The Black Carapace Syndicate.** The insectoid crime lord, Narakata the Ninety-ninth, wants you to repay a gambling debt, preferably in the form illegal goods or rare artifacts, which will count as double their value in repaying this debt.
+
+|    D6    | Signature Weapon                                             |
+| :------: | ------------------------------------------------------------ |
+| **1 HP** | **Flame-thrower** (d8, blast, bulky, thermal) and **2 tanks of fuel** (d6 usage dice) |
+| **2 HP** | **Folding Vibro-Dagger** (d4 long dagger, exploding, shock damage, concealable) |
+| **3 HP** | **Custom Carbine Repeater** (d8, bulky, thermal, noise suppressor) |
+| **4 HP** | **Jade-Iron Machete** (d8, bulky, armor piercing)            |
+| **5 HP** | **Trusty** (d6 blaster) **& Rusty** d6 blaster, cheap)       |
+| **6 HP** | **Rusty** (d6 blaster, cheap)                                |
