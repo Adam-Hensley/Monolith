@@ -67,7 +67,7 @@ Roll **1d12** and consult the corresponding background to see what your life has
 Roll **1d6** to determine your character’s starting Hit Protection (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character’s health or fortitude; nor do they lose it for very long (see Healing). They grow more grizzled over their experiences. If an attack takes a PC’s HP exactly to 0, the player must roll on the scars table.
 
 ## Finishing Touches
-Roll on any additional tables for your background and see the finishing touches section on page 34 for optional traits. The oldest player at the table will reference their background’s group debt.
+Roll on any additional tables for your background and see the finishing touches section for optional traits. The oldest player at the table will reference their background’s group debt.
 
 ## Starting Gear
 All PCs begin with:
