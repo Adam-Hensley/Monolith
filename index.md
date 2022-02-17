@@ -52,6 +52,8 @@ One shots are perfectly acceptable ways to play, but this game was designed with
 ### Player Choice
 Players should always understand the reasons behind the choices they’ve made, and information about potential risks should be provided freely and frequently. Always give the players a lot of information.
 
+#### [Return to Table of Contents](#table-of-contents)
+
 # Character Creation
 
 ## Ability Scores
@@ -75,6 +77,8 @@ All PCs begin with:
 * Cheap Data-Comm (one slot)
 * Glo-torch (one slot)
 * 3d6 Credits (C)
+
+#### [Return to Table of Contents](#table-of-contents)
 
 # Backgrounds
 
