@@ -95,7 +95,7 @@ Each background comes with various traits expressed as [tags]. These are simple 
 If players prefer to create a character without a background, reference the chart on pages 32-33. Players will roll their stats as normal, roll 1d6 HP, and reference the chart according to their highest stat and their HP. This will give them a starting package that may include weapons, powers, equipment, and other character features.
 
 # 1. Mercenary
-[intimidating] [old nemesis]
+[Intimidating] [Old Nemesis]
 
 ## Mercenary Dossier
 
@@ -116,13 +116,46 @@ You and your crew fought for the highest bidder, not for any sort of ideology. U
 
 |    D6    | Signature Weapon                                             |
 | :------: | ------------------------------------------------------------ |
-| **1 HP** | **Flame-thrower** (d8, blast, bulky, thermal) and **2 tanks of fuel** (d6 usage dice) |
-| **2 HP** | **Folding Vibro-Dagger** (d4 long dagger, exploding, shock damage, concealable) |
-| **3 HP** | **Custom Carbine Repeater** (d8, bulky, thermal, noise suppressor) |
-| **4 HP** | **Jade-Iron Machete** (d8, bulky, armor piercing)            |
-| **5 HP** | **Trusty** (d6 blaster) **& Rusty** d6 blaster, cheap)       |
-| **6 HP** | **Rusty** (d6 blaster, cheap)                                |
+| **1 HP** | **Ifriti 9000 Flame-Spitter** (d8, blast, bulky, thermal) and 2 tanks of fuel (d6 usage dice) A rare model flamethrower that spits super-thermal plasma that can burn through metal. |
+| **2 HP** | **Folding Vibro-Shank** (d4 long dagger, exploding, shock damage, concealable) A five-inch blade that does absolutely devastating damage. Semi-illegal. |
+| **3 HP** | **Supercharged Carbine Repeater** (d8 thermal or d6 cryo, bulky) Modded up and fine-tuned to switch between thermal or sub-zero energy rounds. |
+| **4 HP** | **Jade-Iron Machete** (d8, bulky, armor piercing) 3 feet of marbled green metal with a wicked cutting edge. Expert craftsmanship and quite valuable.      |
+| **5 HP** | **“Trusty”** (d6 blaster) & **“Rusty”** (d6 blaster, cheap) These two guns have been with you through thick and thin.      |
+| **6 HP** | **“Rusty”** (d6 blaster, cheap) You used to have two but lost the good one...    |
 
 ## Your Story So Far...
 
-Tables
+|    D4    | Your Old Crew                                             |
+| :------: | ------------------------------------------------------------ |
+| **1** | **Para-Military:** ou were, and still probably are, an absolute professional. Take holo-binocs and tactical fatigues. |
+| **2** | **Outlaws:** Raiders, pirates, or contracted through a syndicate, you are familiar with the seedier parts of the galaxy. Take a grimy outfit, a pack of smokes, & 6d12 worth of underworld trade goods. |
+| **3** | **Ghost Unit:** Your crew specialized in delicate matters that needed doing discreetly and without a trace. Take plasti-steel armor (1 armor, bulky) and a gas mask. |
+| **4** | **Hit Squad:** Assassinations were your bread & butter. Take a thermal detonator, a dark outfit, and an infrared visor helm (1 armor, heat vision) |
+
+|    D4    | No Longer With 'em Because...      |
+| :------: | ------------------------------------------------------------ |
+| **1** | **Last Man Standing:** Something bad happened and everyone turned on each other. It was a bloodbath and you were the last man standing...at least you think. [Grizzled] |
+| **2** | **Betrayal:** Were you the leader? Were you betrayed? Or was the whole crew betrayed by someone inside, or out? Either way, the crew broke up and you have to make your own way. [Paranoid] |
+| **3** | **Things Just Change Sometimes:** Or maybe you changed. Either way, you decided you didn’t want to do what they did anymore, and broke off on your own. [Ambitious] |
+| **4** | **Splintered:** The group splintered, maybe from a disagreement in leadership, or infighting, and splinter groups broke off. Did you go off on your own, did anyone come with you? If so, take a freelancer from the old crew. [Competitive] |
+
+# 2. Human Experiment
+[On the Run] [Unnerving Presence]
+
+## Human Experiment Dossier
+
+### Profile
+You were born in a lab, made in a test tube, or modified and tinkered with in some way. There were some side effects. You recently managed to escape. 
+
+### Starting Gear
+- Hooded cloak
+- Flashlight
+- Serial number or barcode tattoo
+
+### Group Debt
+*If you are the oldest player at the table, the party owes 10k to...*
+
+**Herod**, an infamous slumlord and galactic realtor. You all own equal shares of a small, habitable moon in a nearby system. Roll random qualities to determine what kind of moon it is.
+
+
+
