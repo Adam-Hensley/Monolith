@@ -22,12 +22,12 @@ The rules are also modular enough to be altered or removed. If you don’t want 
 
 # Table of Contents
 
-* [Principles](#principles)
-* [Character Creation](#character-creation)
+* [1. Principles](#1.principles)
+* [2. Character Creation](#2.character-creation)
 * [Backgrounds](#backgrounds)
 * [Equipment](#equipment)
 
-# Principles
+# 1. Principles
 
 ### Compatibility
 This game is designed to be compatible with other pre-written adventures (especially sci-fi) with minimal and flexible conversion.
@@ -54,7 +54,7 @@ Players should always understand the reasons behind the choices they’ve made, 
 
 #### [Return to Table of Contents](#table-of-contents)
 
-# Character Creation
+# 2. Character Creation
 
 ## Ability Scores
 Roll **3d6** for each ability score in order. The player may swap any two of the results.
