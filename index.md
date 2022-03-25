@@ -157,6 +157,8 @@ You were born in a lab, made in a test tube, or modified and tinkered with in so
 
 **Herod**, an infamous slumlord and galactic realtor. You all own equal shares of a small, habitable moon in a nearby system. Roll random qualities to determine what kind of moon it is.
 
+## Hit Protection
+
 |    D6    | Experiment Side Effect             |
 | :------: | ------------------------------------------------------------ |
 | **1 HP** | **Exothermic Lungs:** Exhale a superheated spray of plasma (d8 blast, thermal). 
@@ -166,6 +168,8 @@ You were born in a lab, made in a test tube, or modified and tinkered with in so
 | **4 HP** | **Elasticity:** Your arms and hands can stretch and change form up to 20 sq feet or 60 feet in length. |
 | **5 HP** | **Biomimicry:** Change or alter your face and skin once a day.  |
 | **6 HP** | **Ultra-Conductive:** You can discharge, locally disrupting all nearby computers and circuitry once a day. Immune to electricity and EMP damage. |
+
+## Your Story So Far...
 
 |    D4    | Type of Experiment   |
 | :------: | ---------------------- |
@@ -199,6 +203,8 @@ You’re handy and have made a career out of it for most of your life. Now you�
 
 **PEACHBOY™**, world-renown tech innovators. You are all decked out in the latest chrome. Everyone gets a unique cyberware mod. Until the debt is paid, all credits you make deposit a 5% micro-transaction to PEACHBOY™.
 
+**Hit Protection**
+
 |    D6    | Pet Project             |
 | :------: | ------------------------------------------------------------ |
 | **1 HP** | **Dimension De-stabilizer:** Tech belt that allows the wearer to slip in and out of reality. You cannot interact with anything in this reality but are still visible. |
@@ -207,6 +213,8 @@ You’re handy and have made a career out of it for most of your life. Now you�
 | **4 HP** | **Anti-Grav Boots:** Activate to reduce your fall speed at the last second and land safely. Recharge via 100 credit worth of common battery parts in 1d6 hours. |
 | **5 HP** | **Catherine:** An A.I. chip you can implant into any basic device. Currently installed in your personal comm unit. Catherine is very polite. Will warn you of any imminent danger you might not notice. May run advanced diagnostics. |
 | **6 HP** | **Spider-Wasp Drone:** A spider-sized drone that can quietly fly, crawl on most surfaces, and communicate visually with you at a distance up to 200ft. |
+
+**Your Story So Far...**
 
 |    D4    | Technical Expertise   |
 | :------: | ---------------------- |
@@ -221,6 +229,54 @@ You’re handy and have made a career out of it for most of your life. Now you�
 | **2** | **0110101001:** You’re oddly persuasive to A.I. and computing systems. ADV to reaction rolls with machines and synthetics. |
 | **3** | **MacGyver:** You can fix almost anything with duct tape, holding anything broken  together as if undamaged for 1d6 hours. Also, generally handier than almost anyone else. |
 | **4** | **Fried Wires:** You’ve tinkered with enough electronic components that shock damage and anything electric only damages your HP, completely ineffective at damaging your Ability Scores. |
+
+# 4. Smuggler
+[Subterfuge] [Smooth Talker]
+
+## Engineer Dossier
+
+### Profile
+Running contraband goods for underworld clients is a dangerous game, but you’ve gotten good at staying under the radar. 
+
+### Starting Gear
+- Blaster (d6)
+- Stylish outfit
+- Fake clearance codes (1)
+- *Optional:* Start with a small startship (stolen or indebted) with smuggling holds.
+
+### Group Debt
+*If you are the oldest player at the table, the party owes 10k to...*
+
+**Mama Sook**, the elderly, devious leader of the Broken Nail Club, a smuggling ring. You unwittingly crossed paths with her operations and interfered with her business. She requires payment in the form of running contraband.
+
+## Hit Protection
+
+|    D6    | You Never Do A Job Without   |
+| :------: | ------------------------------------------------------------ |
+| **1 HP** | **Paired Sudo-Collars:** *Highly unethical* metal collars with a subject-object relationship. If you can get another living being to wear one, they pretty much do what you want. Make a contested WIL save every day to maintain control. |
+| **2 HP** | **Hummingbird Knife:** (d6, vorpal, illegal) Vibrates at subsonic frequencies. |
+| **3 HP** | **Loyal Sidekick:** Roll a freelancer merc. You’ve been through thick and thin together. How did you meet? |
+| **4 HP** | **Hacking Sleeve:** Mechanized gauntlet with tools to hack, slice, and infiltrate just about any system or mechanical device. 1 fatigue when successfully used. |
+| **5 HP** | **Custom Cape:** (ADV on reaction and social-based rolls) Flamboyant design of your choice. Looking good is part of the job. |
+| **6 HP** | **Moon Gum:** Tastes great. Causes intense hallucinations for 1d6 hours and is effectively immobilizing. Pretty colors… (6 sticks left) |
+
+## Your Story So Far...
+
+|    D4    | Your Final Run   |
+| :------: | ---------------------- |
+| **1** | Botched Job: You had to dump your cargo in space to escape pursuit by authorities. Your client is furious. You are trying to lay low. |
+| **2** | Early Retirement Gift: You lifted the goods for yourself and said goodbye to the smuggler life. Unfortunately you are now wanted (alive) for 2000 creds. |
+| **3** | Busted: Mix-up with local system authorities. Well, not so much as a mixup as...you’re blacklisted from there. (Blacklisted in next system you travel to) |
+| **4** | Perfect Career: You were one of the best and you’ve managed to retire without incident. Your reputation grants you 10% discount from any underworld dealers. |
+
+|    D4    | Trick Up Your Sleeve   |
+| :------: | ---------------------- |
+| **1** | Nine Lives: Maybe you’re just lucky, maybe it’s something else. The first time a day you would take critical damage from an attack, instead reduce your HP to 1. (If this happens a 10th time, save vs corruption +10) |
+| **2** | Shoot First: Don’t roll initiative in the first round of any combat, just go first. |
+| **3** | Local Parlance: You instantly pick up the common way of speaking and know how to sound like you belong. This carries massive street cred, especially with criminals. |
+| **4** | Under the Radar: Any smuggler worth his salt knows how to keep their head down when working - you have an especially effective touch at dodging local authorities. |
+
+
 
 
 
