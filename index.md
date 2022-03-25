@@ -369,10 +369,57 @@ All machines have a purpose. What was yours, and what will it become?
 | **4** | **Alien Society:** A species of xenos built you, and it shows in your build. Explain your unusual appearance. |
 
 
+# 7. Underworld
+[Seedy] [Cunning Negotiator]
+
+## Underworld Dossier
+
+### Profile
+Just another low life trying to make a few creds. You likely have ties to other criminals and criminal organizations, syndicates, and less reputable individuals. Whether you worked for them, worked alone, or had some other arrangements might depend.
+
+### Starting Gear
+- Old Rifle (d8, bulky, cheap)
+- Smart meds
+- Bolt cutters
+
+### Group Debt
+*If you are the oldest player at the table, the party owes 10k to...*
+
+**Funeral Smoke**, one of the most highly wanted, outlawed merc squads in the known galaxy. They purchased your old debt from a debt bond company. Until you pay your debt, you are registered as low level bounties on the galactic bounty boards.
+
+## Hit Protection
+
+|    D6    | How You Command Respect  |
+| :------: | ------------------------------------------------------------ |
+| **1 HP** | Ultraviolet Shotgun: (d8 blast, cryo, illegal). Black market weapon that emits sub-zero wavelengths. |
+| **2 HP** | Heart-Stopper: Face-mask that looks like a devil (1 armor) and emits a low-frequency hum, unsettling others. Can discharge a 30’ sonic blast (d6 sonic) once a day. |
+| **3 HP** | “Brick”: Take a freelancer (merc) with 12 STR, 8 DEX, 6, WIL, 3 HP, Billhook (d6, bulky)  They’re not the brightest bulb, but they’re pretty large and intimidating. Rename if you wish. |
+| **4 HP** | Red Hyena: (6 HP, 14 DEX, d6 bite, critical damage save vs STR or break a bone) A very large, red coated hyena. Obeys you via a neural link, but some of its affection might be natural. |
+| **5 HP** | Vibro-spear: (d6, bulky, reach, shock) Considered a truly nasty weapon. |
+| **6 HP** | Synth-weave Duster: (1 armor, lots of pockets) It's like a jacket only it's longer, thicker, and far more bad-ass. |
+
+## Your Story So Far...
+
+|    D4    | What Kind of Scum   |
+| :------: | ---------------------- |
+| **1** | **Thug:** You are good at cheap shots. Attacks are enhanced on an enemy that has been hit in the same round. |
+| **2** | **Fence:** You always know someone from whom to get more creds from selling treasure. |
+| **3** | **Scoundrel:** You worked for yourself. +1 HP and take a lead on a lucrative job. |
+| **4** | **Goon:** You did the shakedowns. You impose DIS on anyone making a WIL save against your intimidation efforts. |
+
+|    D4    | Criminal Knack   |
+| :------: | ---------------------- |
+| **1** | **Know A Guy:** You can figure out how to contact someone seedy in any city after an hour of asking around. |
+| **2** | **Forging Documents:** Can make a fake ID for 50 creds, and other similar forgeries of varying quality depending on costs. |
+| **3** | **Cheating:** If you’re gambling, playing games of chance, or making some sort of agreement with someone, you’re especially good at cheating and not getting caught. |
+| **4** | **Talking Shop:** ADV on reaction rolls with others of the criminal persuasion. |
+
+
+
 
 |    D4    | Table   |
 | :------: | ---------------------- |
 | **1** |  |
 | **2** |  |
-| **3** |  |
+| 3 |  |
 | **4** |  |
