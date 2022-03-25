@@ -157,5 +157,82 @@ You were born in a lab, made in a test tube, or modified and tinkered with in so
 
 **Herod**, an infamous slumlord and galactic realtor. You all own equal shares of a small, habitable moon in a nearby system. Roll random qualities to determine what kind of moon it is.
 
+|    D6    | Experiment Side Effect             |
+| :------: | ------------------------------------------------------------ |
+| **1 HP** | **Exothermic Lungs:** Exhale a superheated spray of plasma (d8 blast, thermal). 
+1 fatigue |
+| **2 HP** | **Magnetism:** Manipulate metal objects up to 100 lbs with your mind. 1 fatigue. |
+| **3 HP** | **Ghost Skin:** Willingly phase through solid objects up to 2 feet thick. 1 fatigue. |
+| **4 HP** | **Elasticity:** Your arms and hands can stretch and change form up to 20 sq feet or 60 feet in length. |
+| **5 HP** | **Biomimicry:** Change or alter your face and skin once a day.  |
+| **6 HP** | **Ultra-Conductive:** You can discharge, locally disrupting all nearby computers and circuitry once a day. Immune to electricity and EMP damage. |
+
+|    D4    | Type of Experiment   |
+| :------: | ---------------------- |
+| **1** | **Grown in a Tube:** You are the product of scientific brilliance. You’ve only seen the outside world while floating inside a vat of life-sustaining fluid. You still have a vial of the fluid. (restores 1d4 WIL damage, 3 charges) |
+| **2** | **Brain Stress:** They hooked your brain up with wires and pushed your mind to the limits. You know one random psionic power. |
+| **3** | **Nanobot Infusion:** Some type of prototype serum was injected into your bloodstream. Your body can naturally heal 1d4 STR damage a day. |
+| **4** | **Gene-Splicing:** Bio-Engineering via illegal methods made your body more hardy and adaptable. You naturally have 1 armor. |
+
+|    D4    | How Did You Escape?   |
+| :------: | ---------------------- |
+| **1** | **Violently**, by turning your powers on your captors. Take a bloody med-knife (d6) |
+| **2** | **Furtively**, you somehow managed to sneak out in the dead of night. Take stolen records worth 4d8 credits on the black market and notes on how to find them. |
+| **3** | **Benevolently**, an unknown figure unlocked  your restraints while nobody was there. When you woke up, your escape was wide open. Take a mysterious business card. |
+| **4** | **Inexplicably**, incomprehensible quantum displacement shifted you somewhere completely random. Take a random weapon (d4). 1-2: hand weapon, 3-4: cheap weapon. |
+
+# 3. Engineer
+[Tech Savvy]
+
+## Engineer Dossier
+
+### Profile
+You’re handy and have made a career out of it for most of your life. Now you’re putting your skills to use in a new way. 
+
+### Starting Gear
+- Long Wrench (d6)
+- Grease-stained work clothes
+- Duct tape
+
+### Group Debt
+*If you are the oldest player at the table, the party owes 10k to...*
+
+**PEACHBOY™**, world-renown tech innovators. You are all decked out in the latest chrome. Everyone gets a unique cyberware mod. Until the debt is paid, all credits you make deposit a 5% micro-transaction to PEACHBOY™.
+
+|    D6    | Pet Project             |
+| :------: | ------------------------------------------------------------ |
+| **1 HP** | **Dimension De-stabilizer:** Tech belt that allows the wearer to slip in and out of reality. You cannot interact with anything in this reality but are still visible. |
+| **2 HP** | **Division Multiplier:** Harness that when activated splits you into two smaller versions of yourself. HP & Ability Scores are divided (rounded down.) Inventory exists in a quantum state; used by one version is inaccessible to the other. Lasts 1 minute. Causes fatigue. |
+| **3 HP** | **Molecular Shield Generator:** (1 armor, 3 bonus HP a day) Swarm of fly-sized nanobots orbit you, occasionally running scans on your biological makeup, providing you with customized shielding and protection. |
+| **4 HP** | **Anti-Grav Boots:** Activate to reduce your fall speed at the last second and land safely. Recharge via 100 credit worth of common battery parts in 1d6 hours. |
+| **5 HP** | **Catherine:** An A.I. chip you can implant into any basic device. Currently installed in your personal comm unit. Catherine is very polite. Will warn you of any imminent danger you might not notice. May run advanced diagnostics. |
+| **6 HP** | **Spider-Wasp Drone:** A spider-sized drone that can quietly fly, crawl on most surfaces, and communicate visually with you at a distance up to 200ft. |
+
+|    D4    | Technical Expertise   |
+| :------: | ---------------------- |
+| **1** | **Cyberware:**  Take Smart-Eye implants. 10x zoom, recording & playback. |
+| **2** | **Starships:** You can fix any part of a ship, but it takes 2D12 hours. Take a free starship of low quality. |
+| **3** | **Weapons:** Take a Mass Untangler (1d8, illegal, critical damage instantly disintegrates organics if they fail a STR save) |
+| **4** | **Security:** Hacking computers and slicing into systems are your bread and butter. Take an advanced hacking kit and the expertise to use it. |
+
+|    D4    | Savant Specialty   |
+| :------: | ---------------------- |
+| **1** | **Gearhead:** You can spend 1 turn (10 min) tinkering with most fist-sized objects you’re familiar with to get them at least partially working. |
+| **2** | **0110101001:** You’re oddly persuasive to A.I. and computing systems. ADV to reaction rolls with machines and synthetics. |
+| **3** | **MacGyver:** You can fix almost anything with duct tape, holding anything broken  together as if undamaged for 1d6 hours. Also, generally handier than almost anyone else. |
+| **4** | **Fried Wires:** You’ve tinkered with enough electronic components that shock damage and anything electric only damages your HP, completely ineffective at damaging your Ability Scores. |
 
 
+
+
+
+
+
+
+
+|    D4    | Type of Experiment   |
+| :------: | ---------------------- |
+| **1** |  |
+| **2** |  |
+| **3** |  |
+| **4** |  |
