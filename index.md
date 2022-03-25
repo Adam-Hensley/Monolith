@@ -264,29 +264,113 @@ Running contraband goods for underworld clients is a dangerous game, but you’v
 
 |    D4    | Your Final Run   |
 | :------: | ---------------------- |
-| **1** | Botched Job: You had to dump your cargo in space to escape pursuit by authorities. Your client is furious. You are trying to lay low. |
-| **2** | Early Retirement Gift: You lifted the goods for yourself and said goodbye to the smuggler life. Unfortunately you are now wanted (alive) for 2000 creds. |
-| **3** | Busted: Mix-up with local system authorities. Well, not so much as a mixup as...you’re blacklisted from there. (Blacklisted in next system you travel to) |
-| **4** | Perfect Career: You were one of the best and you’ve managed to retire without incident. Your reputation grants you 10% discount from any underworld dealers. |
+| **1** | **Botched Job:** You had to dump your cargo in space to escape pursuit by authorities. Your client is furious. You are trying to lay low. |
+| **2** | **Early Retirement Gift:** You lifted the goods for yourself and said goodbye to the smuggler life. Unfortunately you are now wanted (alive) for 2000 creds. |
+| **3** | **Busted:** Mix-up with local system authorities. Well, not so much as a mixup as...you’re blacklisted from there. (Blacklisted in next system you travel to) |
+| **4** | **Perfect Career:** You were one of the best and you’ve managed to retire without incident. Your reputation grants you 10% discount from any underworld dealers. |
 
 |    D4    | Trick Up Your Sleeve   |
 | :------: | ---------------------- |
-| **1** | Nine Lives: Maybe you’re just lucky, maybe it’s something else. The first time a day you would take critical damage from an attack, instead reduce your HP to 1. (If this happens a 10th time, save vs corruption +10) |
-| **2** | Shoot First: Don’t roll initiative in the first round of any combat, just go first. |
-| **3** | Local Parlance: You instantly pick up the common way of speaking and know how to sound like you belong. This carries massive street cred, especially with criminals. |
-| **4** | Under the Radar: Any smuggler worth his salt knows how to keep their head down when working - you have an especially effective touch at dodging local authorities. |
+| **1** | **Nine Lives:** Maybe you’re just lucky, maybe it’s something else. The first time a day you would take critical damage from an attack, instead reduce your HP to 1. (If this happens a 10th time, save vs corruption +10) |
+| **2** | **Shoot First:** Don’t roll initiative in the first round of any combat, just go first. |
+| **3** | **Local Parlance:** You instantly pick up the common way of speaking and know how to sound like you belong. This carries massive street cred, especially with criminals. |
+| **4** | **Under the Radar:** Any smuggler worth his salt knows how to keep their head down when working - you have an especially effective touch at dodging local authorities. |
+
+
+# 5. Pilot
+[Cool Under Pressure] [I Can Drive That]
+
+## Pilot Dossier
+
+### Profile
+You feel most comfortable behind the controls of a starship. Quick reflexes and situational awareness make you an asset in many situations.
+
+### Starting Gear
+- Junky blaster (d6, bulky)
+- Mag-boots
+- *Optional*: Start with a small Starship
+
+### Group Debt
+*If you are the oldest player at the table, the party owes 10k to...*
+
+**Libra Wasteworks**, for disposing of illicit goods for you. They want repayment in the form of questionable favors from time to time. Until the debt is paid, you will be pressured into doing their bidding or else face problems with local governments.
+
+## Hit Protection
+
+|    D6    | Decked Out  |
+| :------: | ------------------------------------------------------------ |
+| **1 HP** | **Deluxe Array:** Holo-shades (improve visuals in darkness, look slick), armor-lined red jacket (1 armor), and 2 blasters (d6 thermal), pack of alien cigars (blue smoke) |
+| **2 HP** | **Alien Companion:** Generate a retainer (merc) with one unique feature befitting an alien species (alternatively can be a droid or other non-human) similarly to generating an NPC. |
+| **3 HP** | **Exo-Skin Suit:** (1 armor) Nanotech morph suit, conforms to your body, wear under your regular clothes. Has a built in grappling gun and rebreather mask. |
+| **4 HP** | **Stylin’:** Take a dashing outfit and cloak, silver-plated blaster (d6, replace starting weapon) and a thermal detonator (d6, blast, thermal). |
+| **5 HP** | **Committed to Flying:** Take a datajack implant (Head Socket). Installs the back of your head with a jack that allows you to plug into vehicles to more rapidly access special systems and data. |
+| **6 HP** | **Just the Essentials:** Take a leather jacket, a stun gun and a retractable baton (d6, concealable) |
+
+## Your Story So Far...
+
+|    D4    | Flying Expertise   |
+| :------: | ---------------------- |
+| **1** | **Captain:** You have experience leading, and either through admiration or fear, others find your presence to be motivational in dire circumstances. |
+| **2** | **Navigator:* You know your way around space. You never get lost in space and always get around fast. |
+| **3** | **Ace Pilot:** You always have a few fancy moves when you’re in the pilot seat. |
+| **4** | **Blue Collar:** It was an honest living. Other pilots respect that. You get union discounts for yourself and friends with portside docking, lodging, and buying anything starship related. |
+
+|    D4    | Experience That Left a Mark   |
+| :------: | ---------------------- |
+| **1** | **Traveller:** The vastness and beauty of the galaxy has left its mark on you. You usually know at least a little bit about most other creatures and cultures. |
+| **2** | **Leaf on the Wind:** We may be at the mercy of fate, but you’ve learned to glide on that current rather than resist. Take +1 WIL. |
+| **3** | **Daredevil:** You gotta take risks to survive. You get ADV to any attempts to do something daring in a fight or flying once a day. |
+| **4** | **Dark Corners:** You’ve seen things most haven’t, and know how dark the edges of the galaxy can be. ADV to WIL saves related to fear. |
+
+
+# 6. Machine
+[Inorganic] [Computer Memory]
+
+## Machine Dossier
+
+### Profile
+All machines have a purpose. What was yours, and what will it become?
+(see notes about playing a Machine at the bottom of this page.)
+
+### Starting Gear
+- Cheap Rifle (d6, bulky)
+- Antivirus.EXE (1)
+
+### Group Debt
+*If you are the oldest player at the table, the party owes 10k to...*
+
+**The Surveyers’ Union**, a collective that charters unexplored systems. As an alternative to payment, services rendered are also an option to pay back debt.
+
+## Hit Protection
+
+|    D6    | Custom Hardware  |
+| :------: | ------------------------------------------------------------ |
+| **1 HP** | Heat-Wave Optics: (d8, or d6 blast, thermal) Eye lasers. Take 1 fatigue. |
+| **2 HP** | Reinforced Casing: If you take max damage from an attack, half it. |
+| **3 HP** | Auto-Targeting Subroutine: Reroll damage results of 1. |
+| **4 HP** | Overclocked Processors: Re-roll 1 DEX save a day. |
+| **5 HP** | Hidden Storage: Two extra inventory slots inside your chassis. |
+| **6 HP** | High-Speed Data Jack: Advantage hacking into networked systems. |
+
+## Your Story So Far...
+
+|    D4    | Build Model  |
+| :------: | ---------------------- |
+| **1** | **Droid:** Standard bi-pedal, humanoid robot. Explain your original purpose and what you look like. You have natural +1 armor. |
+| **2** | **Android:** You look mostly human. You are not. Synthetic androids are often discriminated against. Your build quality is fluid and graceful, take +1 DEX. |
+| **3** | **Rogue A.I.** Your chassis is a bit unconventional, as you are primarily an A.I. core that escaped via hacking into and commandeering another vessel. Explain how your frame is built. You can temporarily swap bodies with other machines, taking them over, for 1d4 hours (1 fatigue). |
+| **4** | **Lazarus Machine:** You are the last remains of an actual organic being and mostly brain tissue at this point. Your consciousness was uploaded into this robotic body. Your chassis was designed to be heavily modded. 50% discount on all cyberware. |
+
+|    D4    | Manufacturer  |
+| :------: | ---------------------- |
+| **1** | **Jury-Rigged:** You are composed of several lightly used parts from various other machines by an unknown builder. Some components weren’t installed correctly. |
+| **2** | **Military-Industrial:** You were built for tactical military purposes. |
+| **3** | **Savant Engineer:** You’re the creation of a genius inventor. |
+| **4** | **Alien Society:** A species of xenos built you, and it shows in your build. Explain your unusual appearance. |
 
 
 
-
-
-
-
-
-
-
-
-|    D4    | Type of Experiment   |
+|    D4    | Table   |
 | :------: | ---------------------- |
 | **1** |  |
 | **2** |  |
