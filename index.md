@@ -22,8 +22,8 @@ The rules are also modular enough to be altered or removed. If you don’t want 
 
 # Table of Contents
 
-* [1. Principles](#1.principles)
-* [2. Character Creation](#2.character-creation)
+* [1. Principles](#1. principles)
+* [2. Character Creation](#2. character-creation)
 * [Backgrounds](#backgrounds)
 * [Equipment](#equipment)
 
