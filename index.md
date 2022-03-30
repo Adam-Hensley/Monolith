@@ -368,6 +368,13 @@ All machines have a purpose. What was yours, and what will it become?
 | **3** | **Savant Engineer:** You’re the creation of a genius inventor. |
 | **4** | **Alien Society:** A species of xenos built you, and it shows in your build. Explain your unusual appearance. |
 
+### Additional Information for Machines
+- Machines can only take cyberware augmentations. They must make sense for your build type. 
+- You do not need to eat or breathe and cannot take damage from sources that rely on those functions (breathing, poison, etc). 
+- You are immune to mind-altering effects. 
+- You must sleep (re-boot/defrag/update) roughly as much as everyone else. 
+- Shock does double damage.
+
 
 # 7. Underworld
 [Seedy] [Cunning Negotiator]
@@ -414,6 +421,59 @@ Just another low life trying to make a few creds. You likely have ties to other 
 | **3** | **Cheating:** If you’re gambling, playing games of chance, or making some sort of agreement with someone, you’re especially good at cheating and not getting caught. |
 | **4** | **Talking Shop:** ADV on reaction rolls with others of the criminal persuasion. |
 
+# 8. Psionic
+[Intuitive]
+
+## Psionic Dossier
+
+### Profile
+A power within you has awoken. Whether from trauma, an evolving mind, or some other key, the locks have started to open on a deep seeded source of power.
+
+### Starting Gear
+- Cheap weapon *or* hand weapon
+- Fake I.D.
+- Adrenal Injection (1)
+- Candy bar
+
+### Group Debt
+*If you are the oldest player at the table, the party owes 10k to...*
+
+**Hoodwink**, a loan shark and bookie known for their cruelty and wide political network. You can pay your debt off faster if you help him...collect.
+
+## Hit Protection
+
+|    D6    | Psionic Awakening  |
+| :------: | ------------------------------------------------------------ |
+| **1 HP** | **You are Gifted.** *Shatter*: Your voice echoes with the sound of an earthquake, causing d8 damage (blast 20’) to creatures, and shatters delicate objects. Causes fatigue. |
+| **2 HP** | **You are Psychic.** *Read Thoughts*: You can hear the surface thoughts of nearby creatures and can communicate telepathically, either clearly in languages you know, or a general sense of emotions in languages you are unfamiliar with. |
+| **3 HP** | **You are Telekinetic.** *Telekinesis*: You may mentally 1 move item under 60lbs. Causes fatigue. |
+| **4 HP** | **You are a Mesmer.** *Spectacle*: A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
+| **5 HP** | **You are a Precog.** *Vision*: Once a day, roll a d20 and save that roll. You may substitute that roll for any roll you make after seeing the results. Gain 1 fatigue when you roll your vision and keep it in inventory until the dice is used. |
+| **6 HP** | **You are an Esper.** *Calm*: A creature you can see is soothed and treats you as a friend for 1d6 hours. |
+
+## Your Story So Far...
+
+|    D4    | Your Cover Life   |
+| :------: | ---------------------- |
+| **1** | **Ship Crewmate:** You got by as a shiphand. You have technical knowhow of starships. Take a blow torch and super glue. |
+| **2** | **Corporate Processor:** Hiding in plain sight, day to day, was quite boring. You know the ins-and-outs of bureaucracy, and usually roll with ADV when making any rolls involving corporations or business. |
+| **3** | **Private Investigator:** Your powers are quite useful when it comes to P.I. work. Take infrared smart-binocs and an area scanner. Oh, and a cool hat. |
+| **4** | **Charlatan:** A fool and his money, as they say. Running scams are just easier when you have psionic. Take 10d6 credits and a low level bounty for petty crimes. |
+
+|    D4    | How Your Powers Take Their Toll   |
+| :------: | ---------------------- |
+| **1** | **Draining:** You are always so utterly tired. Permanently mark off one inventory slot. |
+| **2** | **Med-Addicted:** You only recover fatigue from staying at a hospital or taking expensive stims (50 C). Optionally you can heal normally and Save vs. Corruption |
+| **3** | **Paranoid:** Who’s there?! Surprising situations give you DIS on initiative. |
+| **4** | **Split Personality:** It’s not you who has these brain problems, it’s the other one in your head! |
+
+### Additional Information for Psionics
+When a psionic character undergoes major stress, trauma, or levels up, consider letting them awaken a new power that is in-line with the power(s) they currently possess. Optionally, instead of new powers, consider evolving the effects of their starting power.
+
+
+
+
+
 
 
 
@@ -421,5 +481,5 @@ Just another low life trying to make a few creds. You likely have ties to other 
 | :------: | ---------------------- |
 | **1** |  |
 | **2** |  |
-| 3 |  |
+| **3** |  |
 | **4** |  |
